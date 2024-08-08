@@ -1,4 +1,6 @@
 # src/header.py
+import random
+
 
 class OSMHeader:
     def __init__(self, generator="CGImap 0.9.3", version="0.6",
